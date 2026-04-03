@@ -1,6 +1,6 @@
-# Zorvyn Finance Dashboard
+# Finance Dashboard
 
-A clean, interactive, and beautifully designed finance dashboard interface built for the Zorvyn frontend developer assignment.
+A clean, interactive, and beautifully designed finance dashboard interface built for the frontend developer assignment.
 
 ---
 
